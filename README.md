@@ -8,7 +8,7 @@
 <a href="https://www.twitter.com/mdjunaidap" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mdjunaidap?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mohammedjunaid.in)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fmohammedjunaid.in)](https://mohammedjunaid.in)
 
 ### Skills
 
