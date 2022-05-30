@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohammed Junaid
+Hi 👋 I'm Mohammed Junaid AP
 ================================
 
 Full Stack Developer
