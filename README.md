@@ -8,6 +8,7 @@
 <a href="https://www.twitter.com/mdjunaidap" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mdjunaidap?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mohammedjunaid.in)
 
 ### Skills
 
@@ -25,7 +26,7 @@ src="https://img.shields.io/twitter/follow/mdjunaidap?logo=twitter&style=for-the
 </p>
 
 
-### Socials
+### Connect with me
 
 <p align="left"> <a href="https://www.github.com/junaidapdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammed-junaid-228b5319a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mdjunaidap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
